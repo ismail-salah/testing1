@@ -1,0 +1,17 @@
+{
+  "name": "unit-testing-lab",
+  "version": "1.0.0",
+  "description": "this is lab",
+  "main": "lab.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "ismail",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^10.2.0"
+  },
+  "devDependencies": {
+    "chai": "^4.3.7"
+  }
+}
